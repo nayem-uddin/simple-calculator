@@ -1,4 +1,7 @@
-# Bugs
+#simple-calculator
+Webpage link: https://nayem-uddin.github.io/simple-calculator/
+
+#### Bugs
 
 - Takes alphabetic inputs
 - "DEL" button doesn't work
